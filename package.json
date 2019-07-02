@@ -10,12 +10,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "morgan": "^1.8.2"
+    "audit": "0.0.6",
+    "morgan": "^1.9.1",
+    "path": "^0.12.7"
   },
   "devDependencies": {
     "chai": "^4.0.2",
     "chai-http": "^3.0.0",
-    "express": "^4.15.3",
+    "express": "^4.17.1",
     "mocha": "^3.5.0"
   }
 }
